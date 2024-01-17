@@ -1,0 +1,21 @@
+{
+  "name": "azdev-color-theme",
+  "displayName": "AzDev Color Theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "azdev-color-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/azdev-color-theme.json"
+      }
+    ]
+  }
+}
