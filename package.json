@@ -1,10 +1,19 @@
 {
   "name": "azdev-color-theme",
   "displayName": "AzDev Color Theme",
+  "publisher": "rgazeredo",
   "description": "",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.85.0"
+  },
+  "author": {
+    "name": "Raphael Azeredo",
+    "email": "rgazeredo@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rgazeredo/azdev-color-theme.git"
   },
   "categories": [
     "Themes"
